@@ -1,2 +1,0 @@
-# Vinayagar
-First Repository

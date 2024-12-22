@@ -18,7 +18,7 @@ trial_ray3 = rt.Ray(p=np.array([2,0,0]),k=np.array([0,0,1]))
 trial_ray4 = rt.Ray(p=np.array([-2,0,0]),k=np.array([0,0,1]))
 trial_rays = [trial_ray1, trial_ray2, trial_ray3, trial_ray4]
 
-
+#New change 
 
 def see_aberration():
     for trial_ray in trial_rays:

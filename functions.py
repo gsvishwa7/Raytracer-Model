@@ -51,6 +51,7 @@ def check_paraxial_focus():
         point1 = vertices[-2,:] + abs(xx/ray.k()[0])*(ray.k())
     print('The paraxial focus is at:{}'.format(point1))
     
+    # Need more problems
 
 def spherical_aberration_demo():
     demo_rays = []
